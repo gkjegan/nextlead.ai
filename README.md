@@ -1,3 +1,3 @@
-# NextLead.ai
+# NEXTLEAD.AI
 
-NextLead.ai is an innovative platform designed to provide advanced solutions for lead generation and customer relationship management.
+This is the README for the NEXTLEAD.AI project.
